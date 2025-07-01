@@ -40,3 +40,7 @@ Se implementó una CNN con la siguiente arquitectura:
 - Se probó el modelo con imágenes nuevas redimensionadas a **128x128** y convertidas a escala de grises, mostrando la predicción de la clase:
 0 = sin cáncer
 1 = cáncer
+
+- Puedes descargar el modelo entrenado desde el siguiente enlace de One Drive:  
+👉 [Descargar modelo mejor_modelo.keras](https://1drv.ms/u/c/7d2c730eba597f09/EZIAqNrFO_tHt4eYCh9mu-EByKP_rMckMRrKBUtSQKC9pg?e=GcAwqI)
+
