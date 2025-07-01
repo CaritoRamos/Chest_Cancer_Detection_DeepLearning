@@ -43,5 +43,6 @@ Se implementó una CNN con la siguiente arquitectura:
 
 - Puedes descargar el modelo entrenado y el dataset de imágenes desde los siguientes enlaces de One Drive:  
 👉 [Descargar modelo mejor_modelo.keras](https://1drv.ms/u/c/7d2c730eba597f09/EZIAqNrFO_tHt4eYCh9mu-EByKP_rMckMRrKBUtSQKC9pg?e=GcAwqI)
-🖼️ [Descargar dataset de imágenes](https://drive.google.com/file/d/ID_DEL_DATASET/view?usp=sharing](https://1drv.ms/u/c/7d2c730eba597f09/EZdyDVsjFAVCov4AdXyJyukB5UBs-W9SEVS5se_1b6CROA?e=zJ7wdh)
+
+🖼️ [Descargar dataset de imágenes](https://1drv.ms/u/c/7d2c730eba597f09/EZdyDVsjFAVCov4AdXyJyukB5UBs-W9SEVS5se_1b6CROA?e=MQhDm4))
 
